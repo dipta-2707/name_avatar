@@ -1,7 +1,8 @@
 name: name_avatar
-description: A Very Good Project created by Very Good CLI.
-version: 0.1.0+1
-publish_to: none
+description: The NameAvatar widget in Flutter is a versatile widget designed to showcase a circular avatar along with text representing a name. It serves as a convenient tool for showcasing user avatars across different applications.
+version: 0.0.1
+homepage: https://github.com/dipta-2707/name_avatar
+repository: https://github.com/dipta-2707/name_avatar
 
 environment:
   sdk: "^3.3.0"
